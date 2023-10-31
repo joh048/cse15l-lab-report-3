@@ -145,4 +145,4 @@ technical/911report/chapter-9.txt:1655:                or perhaps directed throu
 In this example we can see that all the line numbers that follow the file path are outputted since they contain the keyword "underground".
 
 ## Work Cited Source
-![grep manual](https://linuxcommand.org/lc3_man_pages/grep1.html)
+[Grep Manual](https://linuxcommand.org/lc3_man_pages/grep1.html)
