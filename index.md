@@ -143,3 +143,6 @@ technical/911report/chapter-9.txt:1230:                post on the west side of 
 technical/911report/chapter-9.txt:1655:                or perhaps directed through the underground concourse. Despite the initial advice
 ```
 In this example we can see that all the line numbers that follow the file path are outputted since they contain the keyword "underground".
+
+## Work Cited Source
+![grep manual](https://linuxcommand.org/lc3_man_pages/grep1.html)
